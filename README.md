@@ -3,5 +3,5 @@
 ![LOGO](https://github.com/Javierod/RODsoftware/blob/master/RODSOFTWARE%20Logo.jpg "RODSOFTWARE logo")
 
 Projects:
-  + sList
+  + sList - Mobile Application.
     - Project Proposal.
