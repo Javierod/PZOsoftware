@@ -1,6 +1,6 @@
 # PZOsoftware
 ## Genuine Software
-![LOGO](https://github.com/Javierod/RODsoftware/blob/master/RODSOFTWARE%20Logo.jpg "RODSOFTWARE logo")
+![LOGO](https://github.com/Javierod/PZOsoftware/blob/master/PZOsoftware%20-%20Logo.jpg "RODSOFTWARE logo")
 
 Projects:
   + sList - Mobile Application.
