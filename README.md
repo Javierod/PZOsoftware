@@ -4,4 +4,4 @@
 
 Projects:
   + sList - Mobile Application.
-    - [Project Proposal.](https://github.com/Javierod/RODsoftware/blob/master/sListProjectProposal.md "Project Proposal")
+    - [Project Link](https://github.com/Javierod/SharedList-sList "Project Link")
