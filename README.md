@@ -8,3 +8,6 @@ Founders: Anthony Montero, Paulo Puleo, Javier Rodriguez.
 Projects:
   + eNotes - Mobile Application.
     - [Project Link](https://github.com/Javierod/SharedList-sList "Project Link")
+    
+Follow us: 
+  + [Instagram](https://www.instagram.com/pzosoftware/ "Instagram Account")
