@@ -7,10 +7,10 @@ Founders: Anthony Montero, Paulo Puleo, Javier Rodriguez.
 
 Projects:
   + eNotes - Mobile Device Application.
-    -[Project Link](https://github.com/Javierod/SharedList-sList "Project Link")
-    -Status: Under development.
-    -From: 10/20/2017 To:
-    -Collaborators: [Anthony Montero](https://github.com/anth0nieto),[Javier Rodriguez](https://github.com/Javierod),[Paulo Puleo](https://github.com/puleopaulo),[Rusben Guzman](https://github.com/ruzguz).
+    - [Project Link](https://github.com/Javierod/SharedList-sList "Project Link")
+    - Status: Under development.
+    - From: 10/20/2017 To:
+    - Collaborators: [Anthony Montero](https://github.com/anth0nieto),[Javier Rodriguez](https://github.com/Javierod),[Paulo Puleo](https://github.com/puleopaulo),[Rusben Guzman](https://github.com/ruzguz).
     
 Follow us: 
   + [Instagram](https://www.instagram.com/pzosoftware/ "Instagram Account")
