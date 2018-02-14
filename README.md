@@ -14,3 +14,9 @@ Projects:
     
 Follow us: 
   + [Instagram](https://www.instagram.com/pzosoftware/ "Instagram Account")
+  + [Facebook](https://www.facebook.com/pzosoftware/ "Facebook Account")
+  + [Twitter](https://twitter.com/pzosoftware "Twitter Account")
+
+Contact us:
+  + jrod_@hotmail.com
+  + javier.rodval@hotmail.com
