@@ -3,7 +3,7 @@
 ![LOGO](https://github.com/Javierod/PZOsoftware/blob/master/PZOsoftware%20-%20Logo.jpg "PZOSOFTWARE logo")
 
 Founded: November 17th, 2017<br>
-Founders: Anthony Montero, Paulo Puleo, Javier Rodriguez.
+Founders: Javier Rodriguez.
 
 Projects:
   + eNotes - Mobile Device Application.
