@@ -23,5 +23,4 @@ Follow us:
   + [Facebook](https://www.facebook.com/pzosoftware/ "Facebook Account")
 
 Contact us:
-  + jrod_@hotmail.com
-  + javier.rodval@hotmail.com
+  + pzosoftware@gmail.com
