@@ -1,5 +1,5 @@
 # PZOsoftware
-### Creating innovative and genuine software which meets the needs of our current society and improves the quality of life.
+### Creating innovative and genuine software which meets the needs of our current society.
 ![LOGO](https://github.com/Javierod/PZOsoftware/blob/master/PZOsoftware%20-%20Logo.jpg "PZOSOFTWARE logo")
 
 Founded: November 17th, 2017<br>
