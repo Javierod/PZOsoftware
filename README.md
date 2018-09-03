@@ -11,7 +11,7 @@ Projects:
     - Status: On Hold (08/21/2018)
     - From: 10/20/2017 To: Undefined.
     - Collaborators: [Anthony Montero](https://github.com/anth0nieto), [Javier Rodriguez](https://github.com/Javierod), [Paulo Puleo](https://github.com/puleopaulo), [Rusben Guzman](https://github.com/ruzguz).
-  + Money Clock - Android Mobile Device Application.
+  + MoneyClock - Android Mobile Device Application.
     - [Project Link](https://github.com/Javierod/eCheck "Project Link")
     - Status: Under Development.
     - From: 07/08/2018 To: Today.
