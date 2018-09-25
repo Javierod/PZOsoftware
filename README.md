@@ -13,7 +13,7 @@ Projects:
     - Collaborators: [Anthony Montero](https://github.com/anth0nieto), [Javier Rodriguez](https://github.com/Javierod), [Paulo Puleo](https://github.com/puleopaulo), [Rusben Guzman](https://github.com/ruzguz).
   + MoneyClock - Android Mobile Device Application.
     - [Project Link](https://github.com/Javierod/eCheck "Project Link")
-    - Status: Under Development.
+    - Status: Active.
     - From: 07/08/2018 To: 09/17/2018
     - Collaborators: [B.S. Javier Rodriguez](https://github.com/Javierod), B.A. Ricardo Ramirez.
     
