@@ -5,7 +5,7 @@
 Founded: November 17th, 2017<br>
 Founder: Javier Rodriguez.<br>
 
-[Milestone](https://github.com/PZOsoftware/PZOsoftware/blob/master/milestones.md "Company Milestone")
+[Milestones](https://github.com/PZOsoftware/PZOsoftware/blob/master/milestones.md "Company Milestone")
 
 Projects:
   + eNotes - Android Mobile Device Application.
