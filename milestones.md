@@ -5,4 +5,5 @@
 ## 2019
 [ ] Company Website <br>
 [ ] MoneyClock V2.0 <br>
-[ ] eNotes V1.0
+[ ] eNotes V1.0 <br>
+[ ] Company policies. <br>
