@@ -5,7 +5,7 @@
 Founded: November 17th, 2017<br>
 Founder: Javier Rodriguez.<br>
 
-[Goals](https://github.com/PZOsoftware/PZOsoftware/edit/master/goals.md "Goals")
+[Milestone](https://github.com/PZOsoftware/PZOsoftware/blob/master/milestones.md "Company Milestone")
 
 Projects:
   + eNotes - Android Mobile Device Application.
@@ -18,7 +18,7 @@ Projects:
     - Status: Active.
     - From: 07/08/2018 To: 09/17/2018
     - Collaborators: [B.S. Javier Rodriguez](https://github.com/Javierod), B.A. Ricardo Ramirez.
-  + eBudget - Android Mobile Device Application.
+  + eBudget - Mobile Application.
     - [Project Link.](https://github.com/PZOsoftware/eBudget "Project Link")
     - Status: Under Development.
     - From: 09/25/2018 To: Today
