@@ -20,9 +20,14 @@ Projects:
     - Collaborators: [B.S. Javier Rodriguez](https://github.com/Javierod), B.A. Ricardo Ramirez.
   + eBudget - Mobile Application.
     - [Project Link.](https://github.com/PZOsoftware/eBudget "Project Link")
-    - Status: Under Development.
-    - From: 09/25/2018 To: Today
+    - Status: Completed.
+    - From: 09/25/2018 To: 12/30/2018
     - Collaborators: [B.S. Javier Rodriguez](https://github.com/Javierod)
+  + PZOsoftware Website - Web Application
+    - [Project Link.](https://github.com/PZOsoftware/PZsoftware-web "PZO software website")
+    - Status: Under development.
+    - From: 01/26/2019 To: Today
+    - Collaborators: [B.S. Javier Rodriguez](https://github.com/Javierod) 
     
 Follow us: 
   + [Instagram](https://www.instagram.com/pzosoftware/ "Instagram Account")
