@@ -3,7 +3,8 @@
 [x] MoneyClock V1.0 / V1.1 <br>
 [x] eBudget V1.0
 ## 2019
-[ ] Company Website <br>
-[ ] MoneyClock V2.0 <br>
-[ ] eNotes V1.0 <br>
+[ ] Company Website V1.0<br>
 [ ] Company policies. <br>
+[ ] MoneyClock V2.0 <br>
+[ ] eBuget V1.0 <br>
+[ ] eNotes V1.0 <br>
