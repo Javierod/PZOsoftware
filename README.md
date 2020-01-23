@@ -10,7 +10,6 @@ Projects:
     - Google Play Store.
     - Status: Active.
   + LSU Geaux - Mobile Application.
-    - Project Link.
     - Status: Under Development.
     
 Follow us: 
