@@ -5,14 +5,13 @@
 Founded: November 17th, 2017<br>
 Founder: Javier Rodriguez.<br>
 
-[Milestones](https://github.com/PZOsoftware/PZOsoftware/blob/master/milestones.md "Company Milestone")
-
 Projects:
-  + MoneyClock - Android Mobile Device Application.
-    - [Project Link.](https://github.com/Javierod/eCheck "Project Link")
+  + MoneyClock - Mobile Application.
+    - Google Play Store.
     - Status: Active.
-    - From: 07/08/2018 To: 09/17/2018
-    - Collaborators: [B.S. Javier Rodriguez](https://github.com/Javierod), B.A. Ricardo Ramirez.
+  + LSU Geaux - Mobile Application.
+    - Project Link.
+    - Status: Under Development.
     
 Follow us: 
   + [Instagram](https://www.instagram.com/pzosoftware/ "Instagram Account")
