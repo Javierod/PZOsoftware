@@ -31,7 +31,6 @@ Projects:
     
 Follow us: 
   + [Instagram](https://www.instagram.com/pzosoftware/ "Instagram Account")
-  + [Facebook](https://www.facebook.com/pzosoftware/ "Facebook Account")
 
 Contact us:
   + pzosoftware@gmail.com
